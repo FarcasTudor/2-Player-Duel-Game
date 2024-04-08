@@ -1,0 +1,6 @@
+# Ignore all files in the Library directory
+Library/
+
+# Ignore crash logs
+sysinfo.txt
+*.log
