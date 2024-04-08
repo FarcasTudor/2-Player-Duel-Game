@@ -2,6 +2,9 @@
 
 My first 2D two-player snowball fight game set in a winter landscape. This is a game where each player is armed with snowballs and 5 health points. Walk across the map, jump and throw snowballs against your opponent in order to win the showdown.
 
+<img src="Images/MenuScreen.png" alt="alt text" width="330"/> <img src="Images/Game.png" alt="alt text" width="330"/> <img src="Images/Player1Wins.png" alt="alt text" width="330"/>
+
+
 ## Features
 
 - **Two-Player Gameplay**: Competitive fight game for 2 players
